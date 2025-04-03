@@ -1,4 +1,3 @@
-
 # Agent Insights LWC – Developer Guide
 
 ✅ Complete step-by-step implementation guide for building the `agentInsightsCard` Lightning Web Component. 
@@ -19,6 +18,28 @@ The component surfaces key performance metrics, listing behavior, market activit
 ---
 
 ## 🖼 Output Layout (Two-Column Design)
+
+🔹 Profile & Market Presence
+Office: Houston Heights        Brokerage Rank: #3 of 12 in ZIP
+Top ZIPs: 77008, 77009         Licensed Since: 2014
+Agent Rank: #2 of 14
+
+🔹 Sales Performance
+YTD Volume: $6.2M              Closed Deals: 12
+Avg Deal Size: $520K           Last Close: Mar 12, 2025
+List-to-Close: 42 days
+
+🔹 Market Context (77008)
+Comps Closed (90d): 5          Avg Closed Price: $470K
+Active Listings: 11            Avg DOM: 31 days
+
+🔹 Listing Risk Signals
+Expiring Soon: 2               Stale Listings: 1
+Lost Listings: 3               Engagement Rate: 78% opened
+
+Suggested Opener: 
+“Congrats on your March closing in 77008! I’ve got a buyer actively looking in that ZIP. Want to chat?”
+
 
 ### Profile & Market Presence
 - 🏢 Office: Houston Heights Branch
