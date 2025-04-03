@@ -12,6 +12,26 @@
 - Step 6: Style & Final QA
 - Step 7: Testing & Deployment
 
+🔹 Profile & Market Presence
+🏢 Office: Houston Heights Branch       🏢 Brokerage Rank: [#3 of 12 in ZIP]  
+📍 Top ZIPs: [77008], [77009]           📆 Licensed Since: 2014  
+🏆 Agent Rank: [#2 of 14]              
+
+🔹 Sales Performance
+💰 YTD Volume: [$6.2M]                  📈 Closed Deals: [12]  
+📦 Avg Deal Size: [$520K]              📅 Last Close: [Mar 12, 2025]  
+⏱ List-to-Close: [42 days]  
+
+🔹 Local Market Context (77008)
+🏠 Comps Closed (90d): [5]             💵 Avg Price: [$470K]  
+📌 Active Listings: [11]               📉 Avg DOM: [31 days]  
+
+🔹 Listing Risk Signals
+📆 Expiring Soon: [2 listings]         🕰 Stale Listings: [1]  
+❌ Lost Listings: [3 listings]         📨 Engagement Rate: [78% opened]  
+
+💬 “Congrats on your March closing in 77008! I've got a buyer actively looking in that ZIP. Want to chat?”
+
 ---
 
 ## ✅ Step 1: Scaffold LWC Layout  
