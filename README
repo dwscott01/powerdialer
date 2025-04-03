@@ -7,7 +7,8 @@
 
 ## 🎯 Project Goal
 
-To build a responsive Lightning Web Component (LWC) that displays real-time agent insights during a live call in Salesforce PowerDialer. The component surfaces key performance metrics, listing behavior, market activity, and engagement insights from both Bridge MLS API and Salesforce native data.
+To build a responsive Lightning Web Component (LWC) that displays real-time agent insights during a live call in Salesforce PowerDialer. 
+The component surfaces key performance metrics, listing behavior, market activity, and engagement insights from both Bridge MLS API and Salesforce native data.
 
 ---
 
